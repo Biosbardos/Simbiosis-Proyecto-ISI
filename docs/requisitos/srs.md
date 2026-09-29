@@ -270,7 +270,11 @@ enlazar a los términos de esta sección, pero no los definirá de nuevo.
 | --- | --- | --- |
 | Nutricionista | Rol profesional acreditado, común para médicos y nutricionistas, que puede publicar y validar recetas. | Acta entrevista A3 s1.2, s1.3 y s3 |
 | Acreditación profesional | Procedimiento por el que una persona demuestra su condición profesional para actuar como nutricionista | Acta entrevista A3 s1.3 |
-| Receta aceptada | Receta adecuada al perfil, las alergias o las restricciones alimentarias de un paciente. La plataforma no modifica automáticamente sus ingredientes o cantidades. | Documento Visión y Alcance s1.1 y 2.1 A3 s3 |
+| Receta aceptada | Receta adecuada al perfil, las alergias o las restricciones alimentarias de un paciente. La plataforma no modifica automáticamente sus ingredientes o cantidades. | Documento Visión y Alcance s1.1 y 2.1 y A3 s3 |
+| Foro | Espacio virtual en el que pacientes, cuidadores y profesionales de la salud pueden compartir sus experiencias y conocimientos. | Documento Visión y Alcance s1.1 |
+| Receta validada | Receta que ha sido revisada por un nutricionista de forma que su contenido disponible tenga una garantía de calidad y adecuación clínica. | Documento Visión y Alcance s2.2 y A3 s4.1 |
+| Paciente | Persona que sufre de EII y que está registrada en nuestra plataforma | DVA 2.1 |
+
 
 ## 10. Modelos de análisis
 
