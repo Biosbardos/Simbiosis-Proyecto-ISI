@@ -280,6 +280,11 @@ FR-017 se conserva para no perder el identificador histórico, pero su estado es
 | --- | --- | --- | --- | --- | --- | --- |
 | NFR-07 |NFR-Q (Eficiencia; Escalabilidad; Mantenibilidad) |La plataforma mantendrá los objetivos de capacidad y rendimiento definidos para la primera versión sin intervención manual del personal de la organización.| G | -  | Prueba de carga automatizada con 100 usuarios concurrentes y 10 operaciones/s durante 30 min; comprobar mediante registros de monitorización, ausencia de intervención manual. | - |
 | NFR-01 |NFR-Q (Disponibilidad) |La plataforma alcanzará una disponibilidad mínima de del 99,5 % en cada mes natural.| G | - | Mediante comprobaciones externas cada cinco minutos. | - |
+| NFR-02 |NFR-Q (Compatibilidad y portabilidad ) |La plataforma será utilizable desde navegadores en ordenadores y dispositivos móviles tales como: Chrome, Safari, Brave, DuckDuckGo, Opera y Edge.| G | - | Mediante comprobación directa en dichos navegadores tanto de ordenadores como de dispositivos móviles. | - |
+| NFR-03 |NFR-Q (Seguridad) | La plataforma realizará al menos una copia de seguridad diaria de la información de salud y de las recetas.| G | - | Mediante una prueba de restauración al menos una vez cada tres meses. | - |
+| NFR-04 |NFR-I (Seguridad) |La plataforma autentificará las cuentas de Google utilizando OAuth 2.0 u OpenID Connect sobre HTTPS.| G | - | Mediante una prueba de autenticación con una cuenta de prueba y la revisión de la configuración de la integración. | - |
+| NFR-05 |NFR-I (Usabilidad y accesibilidad) |La plataforma, en su primera versión, estará disponible en castellano y gallego.| G | - | Mediante la revisión todas las pantallas y mensajes de la primera versión en ambos idiomas. | - |
+| NFR-06 |NFR-R (Despliegue) |La plataforma se desplegará en una infraestructura en la nube gestionada por un proveedor externo.| G | - | Mediante la revisión la arquitectura, la configuración del despliegue, las dependencias del cliente y el acceso desde los navegadores compatibles. | - |
 
 Categorías y atributos: 
 1) Requisitos de calidad (NFR-Q): Rendimiento, Usabilidad, Seguridad, Fiabilidad, Disponibilidad, Modificabilidad, Portabilidad, Eficiencia, Escalabilidad, Verificabilidad / Testabilidad, Robustez, Seguridad funcional (safety), Integridad, Reusabilidad, Instalabilidad.
